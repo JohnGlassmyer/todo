@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>net.johnglassmyer.todo</groupId>
 	<artifactId>todo</artifactId>
-	<version>master-SNAPSHOT</version>
+	<version>20180806c</version>
 
 	<properties>
 		<maven.compiler.source>9</maven.compiler.source>

@@ -1,4 +1,4 @@
-package todo;
+package net.johnglassmyer.todo;
 
 public class Todo {
 	// visible for testing

@@ -1,11 +1,11 @@
-package todo;
+package net.johnglassmyer.todo;
 
+import static net.johnglassmyer.todo.Todo.todo;
 import static org.junit.jupiter.api.Assertions.assertThrows;
-import static todo.Todo.todo;
 
 import org.junit.jupiter.api.Test;
 
-import todo.Todo.TodoException;
+import net.johnglassmyer.todo.Todo.TodoException;
 
 public class TodoTest {
 	@Test
